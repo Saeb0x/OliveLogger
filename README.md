@@ -1,5 +1,6 @@
-# OliveLogger
-A simple, flexible, and light-weight Logger for C++ Applications. Provides the ability to write logs! 
+# OliveLogger (Olive Game Engine subsystem for Logging)
+A simple, flexible, and light-weight Logger for C++ Applications. Provides the ability to write logs!
+
 
 ## Features
 - Very fast
